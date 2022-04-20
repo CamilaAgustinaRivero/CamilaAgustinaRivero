@@ -27,3 +27,6 @@ You can find me on <a href="https://www.linkedin.com/in/camilaagustinarivero/" t
 <span><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></span>
 <h4>Random :pushpin:</h4>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></span>
+<span><img src"https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"></span>
