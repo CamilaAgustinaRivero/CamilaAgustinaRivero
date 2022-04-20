@@ -2,4 +2,4 @@
 <h4>
   My name is Camila A. Rivero. I'm a full stack developer. I'm from Buenos Aires, Argentina. I like sharing my work and personal projects. Some technologies I enjoy working with includes React, TypeScript and NodeJS :rocket:
 </h4>
-<h4> You can find me on <a href="https://www.linkedin.com/in/camilaagustinarivero/">LinkedIn</a> or send me an email to <a href="mailto:camilaagustinarivero1@gmail.com">camilaagustinarivero1@gmail.com</a>
+<h4> You can find me on <a href="https://www.linkedin.com/in/camilaagustinarivero/">LinkedIn</a> or send me an email to <a href="mailto:camilaagustinarivero1@gmail.com">camilaagustinarivero1@gmail.com</a> :mailbox:
